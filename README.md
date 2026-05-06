@@ -25,3 +25,13 @@ git pull origin master
 ```
 npm run train
 ```
+
+## Python Foundation:
+
+- Primitive Variables
+- Function
+- Object
+- Class
+- Class deep dive
+- Operation & Conditions
+- Loops
