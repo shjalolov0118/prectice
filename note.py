@@ -1,11 +1,11 @@
 #
 #
-#
-#
-#
-#
-#
-#
+# 32. Primitiv Variablelar
+#   DARSIMIZ REJASI
+# 1. Pythonning o'ziga xos jozibasi haqida.
+# 2. Numberlarni o'rganamiz.
+# 3. String haqida mushohada qilamiz.
+# 4. Booleanlarni o'rganamiz.
 #
 # 31. Git version control hamda GitHub
 #   DARSIMIZ REJASI
