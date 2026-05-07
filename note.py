@@ -1,5 +1,13 @@
 #
 #
+#
+# 33. Functionlar
+#   DARSIMIZ REJASI
+# 1. Functionlarning Dedine va Call jarayonlari.
+# 2. Parametr va Argument.
+# 3. Keyword va Default argumentlar.
+# 4. Functionlarda Scope tushunchasini o'rganamiz.
+#
 # 32. Primitiv Variablelar
 #   DARSIMIZ REJASI
 # 1. Pythonning o'ziga xos jozibasi haqida.
