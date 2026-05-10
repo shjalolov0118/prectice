@@ -1,6 +1,14 @@
 #
 #
 #
+#
+# 34. Objectlar
+#   DARSIMIZ REJASI
+# 1. Object o'zi nima ?
+# 2. Iterable objectlar hamda Range
+# 3. Dictionary objectlarni o'rganamiz
+# 4. Errorr handling tizimi haqida mushohada qilamiz.
+#
 # 33. Functionlar
 #   DARSIMIZ REJASI
 # 1. Functionlarning Dedine va Call jarayonlari.
