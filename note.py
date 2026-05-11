@@ -1,6 +1,11 @@
 #
 #
 #
+# 35. Classlar
+#   DARSIMIZ REJASI
+# (1) Class o'zi nima vauning qanday tarkibiy strukturasi bor.
+# (2) Oddiy hamda Static propertylar.
+# (3) Classlarning maxsus (yani magic) methodlarunu o'rganamiz.
 #
 # 34. Objectlar
 #   DARSIMIZ REJASI
