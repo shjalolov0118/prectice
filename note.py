@@ -7,12 +7,17 @@
 # (2) Oddiy hamda Static propertylar.
 # (3) Classlarning maxsus (yani magic) methodlarunu o'rganamiz.
 #
+# class.about.py
+#
 # 34. Objectlar
 #   DARSIMIZ REJASI
 # 1. Object o'zi nima ?
 # 2. Iterable objectlar hamda Range
 # 3. Dictionary objectlarni o'rganamiz
 # 4. Errorr handling tizimi haqida mushohada qilamiz.
+#
+# objects.py
+# iterable.py
 #
 # 33. Functionlar
 #   DARSIMIZ REJASI
@@ -21,12 +26,16 @@
 # 3. Keyword va Default argumentlar.
 # 4. Functionlarda Scope tushunchasini o'rganamiz.
 #
+# functions.py
+#
 # 32. Primitiv Variablelar
 #   DARSIMIZ REJASI
 # 1. Pythonning o'ziga xos jozibasi haqida.
 # 2. Numberlarni o'rganamiz.
 # 3. String haqida mushohada qilamiz.
 # 4. Booleanlarni o'rganamiz.
+#
+# run.py
 #
 # 31. Git version control hamda GitHub
 #   DARSIMIZ REJASI
@@ -39,5 +48,4 @@
 # 1. Nega aynan Python.
 # 2. Python o'rnatib, tillarning turlarihaqida mushohada qilamiz.
 # 3.VS Code o'rnatib undagi sozlamalarni amalga oshiramiz.
-#
 #
