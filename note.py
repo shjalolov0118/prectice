@@ -1,5 +1,12 @@
 #
 #
+# 36. Classlarni chuqur o'rganamiz.
+#   DARSIMIZ REJASI
+# (1) ENCAPSULATION
+# (2) INHERITENCE
+# (3) POLIMORPHISM
+#
+# class.deep.py
 #
 # 35. Classlar
 #   DARSIMIZ REJASI
