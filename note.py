@@ -1,5 +1,15 @@
 #
 #
+#
+# 37. Inheritence va Polimorphism.
+#   DARSIMIZ REJASI
+# (1) Inheritence tushunchasi.
+# (2) Polymorphism o'rganamiz
+#
+# class.ip.py
+#
+# 36chi darsdankein push qilinmagan.
+#
 # 36. Classlarni chuqur o'rganamiz.
 #   DARSIMIZ REJASI
 # (1) ENCAPSULATION
