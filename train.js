@@ -1,4 +1,25 @@
-// Codni ishga tushurish uchun terminalga npm run train buyrug'ini yozing
+// Codni ishga tushurish uchun terminalga npm run train buyrug'ini yozing.
+
+// TASK H starting
+
+// savol starting
+// TASK H
+// Integerlardan iborat arrayni qabul qilib, faqatgina positive sonlarni olib string holatida return qilsin.
+// Masalan: getPositive([1, -4, 2]) return "12"
+// savol ending
+
+// yechim starting
+
+// const list = [1, -2, 3, -4, 5, -6, 14];
+// console.log("list:", list);
+
+function getPositive(arr) {
+  return arr.filter((num) => num > 0).join("");
+}
+
+console.log(getPositive([1, -2, 3, -4]));
+console.log(getPositive([1, -2, 3, -4, 5, -6, 7, -8, 9]));
+// yechim ending
 
 // TASK G starting
 
@@ -10,7 +31,7 @@
 
 // yechim starting
 
-console.log(Math.max(5, 11, 12, 211, 8)); // bu yerdagi Math = bu method
+// console.log(Math.max(5, 11, 12, 211, 8)); // bu yerdagi Math = bu method
 
 // yechim ending
 
