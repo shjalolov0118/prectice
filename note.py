@@ -1,5 +1,12 @@
 #
 #
+# 38. Operator vs Conditionlar
+#   DARSIMIZ REJASI
+# (1) Umumiy operatrlar.
+# (2) Conditionlarni o'rganamiz.
+# (3) Mantiqiy operatorlarni birga tahlil etamiz.
+#
+# opercon.py
 #
 # 37. Inheritence va Polimorphism.
 #   DARSIMIZ REJASI
@@ -7,8 +14,6 @@
 # (2) Polymorphism o'rganamiz
 #
 # class.ip.py
-#
-# 36chi darsdankein push qilinmagan.
 #
 # 36. Classlarni chuqur o'rganamiz.
 #   DARSIMIZ REJASI
