@@ -1,14 +1,12 @@
 '''CLASS deep diving
-(1) ENCAPSULATION
-(2) INHERITENCE
-(3) POLIMORPHISM
+(1) INHERITENCE
+(2) POLIMORPHISM
 '''
 print("===== INHERITENCE =====")
 # PARENT > CHILD [only public & protected properties]
 
 
-class Animal():  # PARENT
-    # state
+class Animal:  # PARENT
     description = "This class is parent for animals"
 
     def __init__(self, voice):
@@ -31,8 +29,8 @@ class Dog(Animal):  # Child
     def protect(self):
         print("Yes, Ican protect you!")
 
-    def play(self):
-        pass
+    def make_voice(self):
+        print(f"the {self.name} says {self.sound}")
 
 
 class Cat(Animal):  # Child
@@ -71,7 +69,7 @@ class Fish(Animal):  # Child
 
 dog = Dog("Rex", "wow", True)
 cat = Cat("Tom", "myeow", True)
-fish = Fish("Nemo", "ZzZ", True)
+fish = Fish("Nemo", "ZzZ", False)
 
 dog.introduce()
 cat.introduce()
@@ -81,10 +79,28 @@ print("-----")
 dog.make_voice()
 fish.make_voice()
 
-print("-----")
 print(Animal.description)
 print(dog.description)
 
 print(dog.voice, fish.voice)
 print("dog.status", dog._status)
 print("cat.status", cat._status)
+
+print("===== POLIMORPHISM =====")
+
+dog.make_voice()
+fish.make_voice()
+
+print("-----")
+# fish > Fish > Animal > object
+a = isinstance(fish, Fish)
+b = isinstance(fish, Animal)
+c = isinstance(fish, object)
+d = isinstance("MIT", object)
+result = a and b and c and d
+print(f"the result: {a}")
+
+# Fish > Animals > object
+data1 = issubclass(Fish, Animal)
+data2 = issubclass(Animal, object)
+print("data:", data1, data2)
