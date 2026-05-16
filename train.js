@@ -1,5 +1,29 @@
 // Codni ishga tushurish uchun terminalga npm run train buyrug'ini yozing.
 
+// MITASK I starting
+
+// savol starting
+// TASK I
+// Array ichida eng ko'p takrorlangan raqamni topib qaytarsin.
+
+// Masalan: majorityElement([1, 2, 3, 4, 5, 4, 3, 4]) return 4
+// savol ending
+
+// yechim starting
+function majorityElement(arr) {
+  return arr
+    .sort(
+      (a, b) =>
+        arr.filter((v) => v === a).length - arr.filter((v) => v === b).length,
+    )
+    .pop();
+}
+
+console.log(majorityElement([1, 2, 3, 4, 5, 4, 3, 4])); // 4
+// yechim ending
+
+// MITASK I ending
+
 // TASK H starting
 
 // savol starting
