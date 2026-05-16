@@ -1,4 +1,26 @@
 #
+# 41. List
+# DARSIMIZ REJASI
+# (1) Listlar bilan ishlash.
+# (2) Listlarga doir methodlar.
+# (3) Lambda functionni o'rganamiz.
+# (4) Enumerate, map hamda filter.
+#
+# 40. Tuple
+#   DARSIMIZ REJASI
+# (1) Tuple o'zi nima.
+# (2) Argumentlarni yoyish mexanizmi.
+# (3) Zim objecti bilan ishlash.
+#
+# tuples.py
+#
+# 39. Loop operatorlar
+#   DARSIMIZ REJASI
+# (1) For loop operatorri.
+# (2) Break va else ishlatilishi holatlari.
+# (3) While loop operatori.
+#
+# loops.py
 #
 # 38. Operator vs Conditionlar
 #   DARSIMIZ REJASI

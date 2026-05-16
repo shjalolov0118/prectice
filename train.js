@@ -9,16 +9,12 @@
 // savol ending
 
 // yechim starting
+// function getPositive(arr) {
+//   return arr.filter((num) => num > 0).join("");
+// }
 
-// const list = [1, -2, 3, -4, 5, -6, 14];
-// console.log("list:", list);
-
-function getPositive(arr) {
-  return arr.filter((num) => num > 0).join("");
-}
-
-console.log(getPositive([1, -2, 3, -4]));
-console.log(getPositive([1, -2, 3, -4, 5, -6, 7, -8, 9]));
+// console.log(getPositive([1, -2, 3, -4]));
+// console.log(getPositive([1, -2, 3, -4, 5, -6, 7, -8, 9]));
 // yechim ending
 
 // TASK G starting
