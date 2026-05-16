@@ -6,6 +6,8 @@
 # (3) Lambda functionni o'rganamiz.
 # (4) Enumerate, map hamda filter.
 #
+# lists.py
+#
 # 40. Tuple
 #   DARSIMIZ REJASI
 # (1) Tuple o'zi nima.
