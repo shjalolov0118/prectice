@@ -1,5 +1,12 @@
 #
 #
+# 43. Comprehensionlar
+#   DARSIMIZ REJASI
+# (1) Comprehension o'zi nima va List comprehensionlar.
+# (2) Set hamda Dictionary comprehensionlarni o'rganamiz.
+#
+# comprehension.py
+#
 # 42. Array Hamda Set
 #   DARSIMIZ REJASI
 # (1) Array data type
