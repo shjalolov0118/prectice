@@ -1,4 +1,13 @@
 #
+#
+# 42. Array Hamda Set
+#   DARSIMIZ REJASI
+# (1) Array data type
+# (2) Set data type
+# (3) Set bilan bog'liq maxsus operatorlar
+#
+# array.set.py
+#
 # 41. List
 # DARSIMIZ REJASI
 # (1) Listlar bilan ishlash.
