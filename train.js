@@ -1,5 +1,22 @@
 // Codni ishga tushurish uchun terminalga npm run train buyrug'ini yozing.
 
+// MITASK J starting
+function findLongestWord(text) {
+  let words = text.split(" ");
+  let longest = "";
+
+  for (let word of words) {
+    if (word.length > longest.length) {
+      longest = word;
+    }
+  }
+
+  return longest;
+}
+
+console.log(findLongestWord("I came from Uzbekistan!"));
+// MITASK J ending
+
 // MITASK I starting
 
 // savol starting
@@ -10,16 +27,16 @@
 // savol ending
 
 // yechim starting
-function majorityElement(arr) {
-  return arr
-    .sort(
-      (a, b) =>
-        arr.filter((v) => v === a).length - arr.filter((v) => v === b).length,
-    )
-    .pop();
-}
+// function majorityElement(arr) {
+//   return arr
+//     .sort(
+//       (a, b) =>
+//         arr.filter((v) => v === a).length - arr.filter((v) => v === b).length,
+//     )
+//     .pop();
+// }
 
-console.log(majorityElement([1, 2, 3, 4, 5, 4, 3, 4])); // 4
+// console.log(majorityElement([1, 2, 3, 4, 5, 4, 3, 4])); // 4
 // yechim ending
 
 // MITASK I ending
